@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.fsproj", "{DE62C8A2-DB05-4687-BB02-9C470BE04769}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLRegressionExample", "MLRegressionExample\MLRegressionExample.csproj", "{5CB049AD-BC53-4F17-98B0-3ECE3E4CAF36}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLClassificationExample", "MLClassificationExample\MLClassificationExample.csproj", "{1BA2A252-BE1A-4A70-B405-B70FE974A4B3}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE62C8A2-DB05-4687-BB02-9C470BE04769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE62C8A2-DB05-4687-BB02-9C470BE04769}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE62C8A2-DB05-4687-BB02-9C470BE04769}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE62C8A2-DB05-4687-BB02-9C470BE04769}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5CB049AD-BC53-4F17-98B0-3ECE3E4CAF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5CB049AD-BC53-4F17-98B0-3ECE3E4CAF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CB049AD-BC53-4F17-98B0-3ECE3E4CAF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
